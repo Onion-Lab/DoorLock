@@ -1,0 +1,11 @@
+[Unit]
+Description=Doorlock Server
+
+[Service]
+User=pi
+WorkingDirectory=/home/pi/Doorlock
+ExecStart=/usr/bin/python3 WebServer.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

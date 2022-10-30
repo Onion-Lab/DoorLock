@@ -1,0 +1,11 @@
+[Unit]
+Description=Raspberry pi face doorlock
+
+[Service]
+User=pi
+WorkingDirectory=/home/pi/Doorlock
+ExecStart=/usr/bin/python3 face_recog.py
+Restart=always
+
+[Install]
+WantedBy=bluetooth.target

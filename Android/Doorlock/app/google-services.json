@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115845217059",
+    "project_id": "doorlock-a24a7",
+    "storage_bucket": "doorlock-a24a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115845217059:android:97fc464fc4efcb4171ea96",
+        "android_client_info": {
+          "package_name": "com.example.doorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115845217059-047f0n0ssn44m5p0189r3eg29ud3r94a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Bu2ol-Vcj33x1Ws9BKy2LeTe5ZKydTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115845217059-047f0n0ssn44m5p0189r3eg29ud3r94a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
